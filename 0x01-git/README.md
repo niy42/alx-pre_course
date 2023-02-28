@@ -1,1 +1,1 @@
-Learning git command is fun
+Learning git command is so fun
